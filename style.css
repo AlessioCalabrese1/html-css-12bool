@@ -1,0 +1,12 @@
+[class*="col-"] {
+    background-color: lightskyblue;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.bg-active{
+    background-color: green;
+}
